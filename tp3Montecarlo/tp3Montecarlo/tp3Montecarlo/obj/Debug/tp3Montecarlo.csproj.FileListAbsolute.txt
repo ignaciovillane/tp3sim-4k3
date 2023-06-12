@@ -1,0 +1,11 @@
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\obj\Debug\tp3Montecarlo.csproj.AssemblyReference.cache
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\obj\Debug\tp3Montecarlo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\obj\Debug\tp3Montecarlo.Form1.resources
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\obj\Debug\tp3Montecarlo.Properties.Resources.resources
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\obj\Debug\tp3Montecarlo.csproj.GenerateResource.cache
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\obj\Debug\tp3Montecarlo.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\bin\Debug\tp3Montecarlo.exe.config
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\bin\Debug\tp3Montecarlo.exe
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\bin\Debug\tp3Montecarlo.pdb
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\obj\Debug\tp3Montecarlo.exe
+C:\Users\ignac\Documents\simulacion\Tp 3\tp3Montecarlo\tp3Montecarlo\obj\Debug\tp3Montecarlo.pdb
